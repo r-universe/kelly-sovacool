@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kelly-sovacool/universe
 	shallow = true
 	branch = HEAD
+[submodule "mikropml"]
+	path = mikropml
+	url = https://github.com/SchlossLab/mikropml
+	shallow = true
+	registered = true
+[submodule "schtools"]
+	path = schtools
+	url = https://github.com/SchlossLab/schtools
+	shallow = true
+	registered = true
