@@ -5,6 +5,6 @@
   },
   {
     "package": "schtools",
-    "oncran": false
+    "oncran": true
   }
 ]
