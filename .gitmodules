@@ -13,3 +13,8 @@
 	url = https://github.com/SchlossLab/schtools
 	shallow = true
 	registered = true
+[submodule "sovatools"]
+	path = sovatools
+	url = https://github.com/kelly-sovacool/sovatools
+	shallow = true
+	registered = true
